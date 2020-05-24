@@ -45,9 +45,9 @@
 
 空格加强
 
-按住空格键时：按下「1~9」数字 会产生1~9个空格
+按住空格键时：按下「1-9」数字 会产生1-9个空格
 
-![mark](http://cdn.zhibian.cn/wiki/20200524/eaGdOTczVoN8.JPG)
+![ZhibianInput](http://cdn.zhibian.cn/wiki/20200524/eaGdOTczVoN8.JPG)
 
 如果你能看懂这张图就ok，不行的话，有空录制一个视频就简单了。
 
