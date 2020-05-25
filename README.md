@@ -46,5 +46,3 @@ https://github.com/ttlx/zhibian/releases/download/0.8/ZhibianInput.exe
 # 4.感谢
 
 感谢火箭君整理的xlr-space脚本及相关内容，首发少数派的那篇文章。
-
-![智变思维](http://cdn.zhibian.cn/wiki/20200509/hhxSai8Vgoy2.png?imageslim)
