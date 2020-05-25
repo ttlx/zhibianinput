@@ -8,6 +8,8 @@
 
 # 2.教程
 
+原文链接：智变思维：智变输入法教程和下载 - 智变思维  https://www.zhibian.cn/code/170.html
+
 运行ZhibianInput.exe（无法自动启动）
 
 即按住空格键后「ijkl」，转换为方向键。
