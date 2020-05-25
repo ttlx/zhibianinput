@@ -41,7 +41,9 @@
 
 # 3.下载
 
-https://github.com/ttlx/zhibian/releases/download/0.8/ZhibianInput.exe
+windos执行文件下载：https://github.com/ttlx/zhibian/releases/download/0.8/ZhibianInput.exe
+
+脚本开源的自己可以编辑ahk脚本：https://github.com/ttlx/zhibianinput/blob/master/zhibian-input
 
 # 4.感谢
 
